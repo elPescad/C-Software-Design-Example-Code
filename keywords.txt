@@ -1,0 +1,17 @@
+1. Encapsulation:
+    When we bundle together resources into a single unit
+
+2. Abstraction
+    Hiding complex external details and exposing only important features or interfaces
+
+3. lValue
+    Identifiable object with persistent memory
+
+4. rValue
+    Temporary value without accessible address
+
+5. Module
+    Think of it like this. Basically with a header file everytime you call it
+    you call it it gets copied into that file.
+    For a module it just exists and any file that call it just gets access to it.
+    There is no need for copying it just exists and you can use it now.
